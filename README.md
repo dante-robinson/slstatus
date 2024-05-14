@@ -1,5 +1,4 @@
-## slstatus - suckless status
-==========================
+# slstatus - suckless status
 slstatus is a small tool for providing system status information to other
 programs over the EWMH property of the root window (used by dwm(1)) or
 standard input/output. It is designed to be as efficient as possible by
@@ -38,7 +37,6 @@ My personal slstatus I use with my DWM config. This config shows a date and time
 No patches have been applied and non of the stock features are hard removed from the codebase so they can always be enabled easier later on if needed.
 
 ## Installation
-------------
 Edit config.mk to match your local setup (Currently setup for OpenBSD)
 
 Afterwards enter the following command to build and install slstatus (if
@@ -48,6 +46,5 @@ necessary as root):
 
 
 ## Running slstatus
-----------------
 See the man page for details.
 
