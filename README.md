@@ -6,7 +6,6 @@ only issuing the minimum of system calls required.
 
 
 ## Features
---------
 - Battery percentage/state/time left
 - Cat (read file)
 - CPU usage
